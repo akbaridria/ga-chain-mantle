@@ -1,0 +1,8 @@
+{
+    "db": {
+        "hostname": "127.0.0.1",
+        "username": "root",
+        "password": "gani_secret"
+    },
+    "web3_http_url": "https://rpc.testnet.mantle.xyz/"
+}
