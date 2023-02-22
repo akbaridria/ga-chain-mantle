@@ -23,6 +23,7 @@ if you want to visualize the dataset you can follow this step below :
 - create blank report and add data to report
 - choose Bigquery and search for project ``ambient-airlock-378415`` and choose one of the tables to added to looker studio.
 
+or you can find how to use this dataset on my video [here](https://youtu.be/UZiGg6qZeDo)
 
 <em>if you want to use google bigquery client in nodejs/python for customize data visualization. you can dm me on twitter [@a_idria](https://twitter.com/a_idria) for asking the credentials to use the dataset.</em>
 
