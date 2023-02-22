@@ -16,7 +16,7 @@ we are serving data for developers to make it easier to query and visualize data
 If you want to query and visualize the dataset follow this step below :
 - First go to [https://console.cloud.google.com/](https://console.cloud.google.com/)
 - Select Bigquery menu and create query
-- You dont have to search for the dataset, but you can query it for free using dataset details above example ``SELECT * FROM `ambient-airlock-378415.ga_chain.transactions` LIMIT 1000``
+- You dont have to search for the dataset, but you can query it for free using dataset details above. example ``SELECT * FROM `ambient-airlock-378415.ga_chain.transactions` LIMIT 1000``
 
 ## Roadmap
 
